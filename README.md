@@ -3,7 +3,7 @@ Systems &amp; Applications - First Project - Excel Evaluation Sheet
 
 Excel Project that uses VBA to create an evaluation set of tables for teachers.
 
-## **HOW TO USE:**
+### **HOW TO USE:**
 
 \> Paste a list of Student Names under the *Nomes* bar in the *Alunos* sheet.
 
