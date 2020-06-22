@@ -7,7 +7,7 @@ Excel Project that uses VBA to create an evaluation set of tables for teachers.
 
 \> Paste a list of Student Names under the *Nomes* bar in the *Alunos* sheet.
 
-\> Click ***START***
+\> Click ***START***.
 
 \> Specify whether any of the assessment components require work groups for students and name them.
 
